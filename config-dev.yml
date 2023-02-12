@@ -1,2 +1,2 @@
 config:
-  info: main->dev
+  info: main->dev?version=1
